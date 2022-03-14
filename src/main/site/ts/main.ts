@@ -94,3 +94,4 @@ async function updateValues(sunval: string, moonval: string, risingval: string):
   moon.value = moonval;
   rising.value = risingval;
 }
+//Lots of credit to nia mcgregor (nmcgrego) for her help on this lab
